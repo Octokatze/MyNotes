@@ -1,0 +1,108 @@
+# K3-5
+
+### 语法
+
+##### 物主代词
+
+<table>
+	<tr>
+		<th></th>
+		<th>der</th>
+		<th>das</th>
+		<th>die</th>
+		<th>die(Pl.)</th>
+	</tr>
+	<tr>
+		<td>mein 我的</td>
+		<td>mein</td>
+		<td>mein</td>
+		<td>miene</td>
+		<td>meine</td>
+	</tr>
+	<tr>
+		<td>dein 你的</td>
+		<td>dein</td>
+		<td>dein</td>
+		<td>deine</td>
+		<td>deine</td>
+	</tr>
+	<tr>
+		<td>sein 阳性名词的</td>
+		<td>sein</td>
+		<td>sein</td>
+		<td>seine</td>
+		<td>seine</td>
+	</tr>
+	<tr>
+		<td>ihr 阴性名词的</td>
+		<td>ihr</td>
+		<td>ihr</td>
+		<td>ihre</td>
+		<td>ihre</td>
+	</tr>
+	<tr>
+		<td>sein 中性名词的</td>
+		<td>sein</td>
+		<td>sein</td>
+		<td>seine</td>
+		<td>seine</td>
+	</tr>
+	<tr>
+		<td>unser 我们的</td>
+		<td>unser</td>
+		<td>unser</td>
+		<td>uns(e)re</td>
+		<td>uns(e)re</td>
+	</tr>
+	<tr>
+		<td>euer 你们的</td>
+		<td>euer</td>
+		<td>euer</td>
+		<td>eu(e)re</td>
+		<td>eu(e)re</td>
+	</tr>
+	<tr>
+		<td>ihr 他们的</td>
+		<td>ihr</td>
+		<td>ihr</td>
+		<td>ihre</td>
+		<td>ihre</td>
+	</tr>
+	<tr>
+		<td>Ihr 您（们）的</td>
+		<td>Ihr</td>
+		<td>Ihr</td>
+		<td>Ihre</td>
+		<td>Ihre</td>
+	</tr>
+</table>
+
+注意： sein（他的）与动词原型sein的区分。
+
+* ihr/Ihr的区分
+	
+	* 首先注意大小写是尊称还是非尊称。
+
+		1. ihr表示你们，这是人称代词，其后面不需要家名词。
+
+			> Seid ihr Studenten? 你们是学生么？
+
+		2. 物主代词+名词才能构成完整的句子成分，例如：
+
+			1. 阴性名词的
+
+				> Das ist ihr Buch. 这是她的书.
+
+			2. 尊称的
+
+				> Ist das Ihr Buch? 这是您的书吗？
+
+			难点：Ihr 位于句首必须大写，只能根据前后句意来判断是表示阴性名词的、还是尊称的或者是他们的。
+
+* unser和euer写法
+	
+	* 两种写法：unsere 或者 unsre;  euere 或者 eure
+
+		新正字法：unsere、euere
+
+		旧写法：unsre、eure

@@ -1,0 +1,200 @@
+# K2-10
+
+### 不规则动词变位
+
+* #### 规则一：元音发生变音
+		
+	* 比如：a 变成 ä，o 变成 ö,，复合元音 au 变成 äu
+
+		举例：
+
+		<table>
+			<tr>
+				<td></td>
+				<th>fahren（行驶）</th>
+				<th>schlafen（睡觉）</th>
+				<th>stoßen（推，撞）</th>
+				<th>laufen（跑）</th>
+			</tr>
+			<tr>
+				<th>ich</th>
+				<td>fahre</td>
+				<td>schlafe</td>
+				<td>stoße</td>
+				<td>laufe</td>
+			</tr>
+			<tr>
+				<th>du</th>
+				<td>fährst</td>
+				<td>schläfst</td>
+				<td>stößt</td>
+				<td>läufst</td>
+			</tr>
+			<tr>
+				<th>er/sie/es</th>
+				<td>fährt</td>
+				<td>schläft</td>
+				<td>stößt</td>
+				<td>läuft</td>
+			</tr>
+			<tr>
+				<th>wir</th>
+				<td>fahren</td>
+				<td>schlafen</td>
+				<td>stoßen</td>
+				<td>laufen</td>
+			</tr>
+			<tr>
+				<th>ihr</th>
+				<td>fahrt</td>
+				<td>schlaft</td>
+				<td>stoßt</td>
+				<td>lauft</td>
+			</tr>
+			<tr>
+				<th>Sie/sie</th>
+				<td>fahren</td>
+				<td>schlafen</td>
+				<td>stoßen</td>
+				<td>laufen</td>
+			</tr>
+		</table>
+
+* #### 规则二：元音发生变音
+
+	* 比如：e变成 i，eh 变成 ieh，eh 变成 i (e wie Emil, i wie Ida)
+
+		举例：
+			<table>
+			<tr>
+				<td></td>
+				<th>helfen（帮）</th>
+				<th>sehen（看）</th>
+				<th>nehmen（拿，点餐）</th>
+			</tr>
+			<tr>
+				<th>ich</th>
+				<td>helfe</td>
+				<td>sehe</td>
+				<td>nehme</td>
+			</tr>
+			<tr>
+				<th>du</th>
+				<td>hilfst</td>
+				<td>siehst</td>
+				<td>nimmst</td>
+			</tr>
+			<tr>
+				<th>er/sie/es</th>
+				<td>hilft</td>
+				<td>sieht</td>
+				<td>nimmt</td>
+			</tr>
+			<tr>
+				<th>wir</th>
+				<td>helfen</td>
+				<td>sehen</td>
+				<td>nehmen</td>
+			</tr>
+			<tr>
+				<th>ihr</th>
+				<td>helft</td>
+				<td>seht</td>
+				<td>nehmt</td>
+			</tr>
+			<tr>
+				<th>Sie/sie</th>
+				<td>helfen</td>
+				<td>sehen</td>
+				<td>nehmen</td>
+			</tr>
+		</table>
+
+* #### 规则三：原因发生变音
+	* 比如：ö 变成 i
+
+	举例：
+		<table>
+			<tr>
+				<td></td>
+				<th>erlöschen（熄灭，失效）</th>
+			</tr>
+			<tr>
+				<th>ich</th>
+				<td>erlösche</td>
+			</tr>
+			<tr>
+				<th>du</th>
+				<td>erlischst</td>
+			</tr>
+			<tr>
+				<th>er/sie/es</th>
+				<td>erlischt</td>
+			</tr>
+			<tr>
+				<th>wir</th>
+				<td>erlöschen</td>
+			</tr>
+			<tr>
+				<th>ihr</th>
+				<td>erlöscht</td>
+			</tr>
+			<tr>
+				<th>Sie/sie</th>
+				<td>erlöschen</td>
+			</tr>
+		</table>
+
+* #### 规则四：当动词词干有 a 为元音 (Umlaut)，以 t、d 结尾时
+
+	##### 1. 第二人称单数不加 e 。注意 ts，ds 都是组合音。
+
+	##### 2. 第三人称单数：如果词干以 d 结尾，需再加第三人称词尾 t 。dt 组合发 t 音。如果词干以 t 结尾，不需要加人称词尾。
+
+	举例：
+		<table>
+			<tr>
+				<td></td>
+				<th>raten（猜）</th>
+				<th>laden（装载）</th>
+				<th>halten（停住）</th>
+			</tr>
+			<tr>
+				<th>ich</th>
+				<td>rate</td>
+				<td>lade</td>
+				<td>halte</td>
+			</tr>
+			<tr>
+				<th>du</th>
+				<td>rätst</td>
+				<td>lädst</td>
+				<td>hältst</td>
+			</tr>
+			<tr>
+				<th>er/sie/es</th>
+				<td>rät</td>
+				<td>lädt</td>
+				<td>hält</td>
+			</tr>
+			<tr>
+				<th>wir</th>
+				<td>raten</td>
+				<td>laden</td>
+				<td>halten</td>
+			</tr>
+			<tr>
+				<th>ihr</th>
+				<td>ratet</td>
+				<td>ladet</td>
+				<td>haltet</td>
+			</tr>
+			<tr>
+				<th>Sie/sie</th>
+				<td>raten</td>
+				<td>laden</td>
+				<td>halten</td>
+			</tr>
+		</table>
+
+

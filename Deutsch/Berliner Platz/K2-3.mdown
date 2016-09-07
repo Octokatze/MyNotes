@@ -1,0 +1,62 @@
+# K2-3
+
+### 语法
+
+* 判断疑问句
+
+	> Sind Sie Herr Bode? 您是博德先生吗？
+
+	1. 动词位于第一位，主语位于第二位。主语后面跟其他句子成分。
+	2. 祈使句中，动词同样位于第一位.
+
+* 回答判断疑问句
+	* 肯定：Ja.
+	* 否定：Nein.
+	
+* 句子语序归纳总结
+	<table>
+		<tr>
+			<th>句型</th>
+			<th>第一位</th>
+			<th>第二位</th>
+			<th>…</th>
+			<th>语调</th>
+			<th>共同点</th>
+		</tr>
+		<tr>
+			<th>判断疑问句</th>
+			<td>Kommen</td>
+			<td>Sie</td>
+			<td>aus Deutschland?</td>
+			<td>↗</td>
+			<td rowspan="2">动词始终位于第一位</td>
+		</tr>
+		<tr>
+			<th>祈使句(Sie)</th>
+			<td>Schreiben</td>
+			<td>Sie</td>
+			<td>bitte!</td>
+			<td>↘</td>
+		</tr>
+		<tr>
+			<th>补充疑问句</th>
+			<td>Wie</td>
+			<td>heißen</td>
+			<td>Sie?</td>
+			<td>↗或↘</td>
+			<td rowspan="3">动词始终位于第二位</td>
+		</tr>
+		<tr>
+			<th rowspan="2">陈述句</th>
+			<td>Sie</td>
+			<td>sprechen</td>
+			<td>Deutsch.</td>
+			<td>↘</td>
+		</tr>
+		<tr>
+			<td>Heute</td>
+			<td>ist</td>
+			<td>er zu Hause.</td>
+			<td>↘</td>
+		</tr>
+	</table>

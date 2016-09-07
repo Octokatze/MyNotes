@@ -1,0 +1,37 @@
+# K2-7
+### 词汇
+
+偶数 gerade Zahl
+
+奇数 ungerade Zahl
+
+* 在德国生活学习，有很多号码 (die Nummer)：
+	* 账户号码：Kontonummer
+
+		das Konto
+
+		die Kontonummer
+
+	* 银行代码：Bankleitzahl
+
+		die Bankleitzahl（“银行”－“引导”－“数字”）
+
+		缩写：BLZ
+
+	* 账户名：Kontoinhaber
+
+		der Kontoinhaber
+
+	* 会员号码：Mitgliedsnummer
+
+		die Mitgliedsnummer
+
+	* 合同编号: Vertragsnummer
+
+		合同：der Vertrag, 复数：die Verträge
+
+		die Vertragsnummer
+
+	* 邮编：die Postleitzahl
+
+		缩写：PLZ

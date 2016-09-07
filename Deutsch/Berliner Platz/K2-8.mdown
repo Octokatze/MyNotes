@@ -1,0 +1,68 @@
+# K2-8
+
+### 两位数字规律
+
+* #### 大规律
+
+	对于13以上，100以内的数字，先念个位，再念十位
+
+* #### 小规律
+	1. 从13到19：数字＋zehn
+
+		> 13 – dreizehn 
+
+		> 14 – vierzehn
+
+		> 15 – fünfzehn
+
+		> 16 – sechzehn 注意：此处省略s，发音同ich中的-ch
+
+		> 17 – siebzehn 注意：此处省略en，浊音需清化
+
+		> 18 – achtzehn 注意：此处tz需发组合音！
+
+		> 19 – neunzehn
+
+	2. 针对20-100，个位＋und（“和”）＋十位
+
+		> 22 - zweiundzwanzig
+
+		> 23 – dreiundzwanzig 
+
+		> 24 – vierundzwanzig
+
+		> 25 – fünfundzwanzig
+
+		> 26 – sechsundzwanzig
+
+		> 27 – siebenundzwanzig
+
+		> 28 – achtundzwanzig 
+
+		> 29 – neunundzwanzig
+
+	3. 数字1与十位搭配，不是eins，而是ein！
+
+		> 21 – einundzwanzig
+
+	4. 几十＝数字＋zig
+
+		例外一：20 – zwanzig
+
+		例外二：30 – dreißig
+
+		> 40 - vierzig
+
+		> 50 - fünfzig
+
+		> 60 - sechzig （变化类似 16 －sechzehn）
+
+		> 70 - siebzig （变化类似 17 －siebzehn）
+
+		> 80 - achtzig
+
+		> 90 - neunzig
+
+### 100
+	
+hundert 或 einhundert

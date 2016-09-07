@@ -1,0 +1,29 @@
+# K3-4
+
+### 词汇
+
+* mögen 喜欢 
+
+	注意与gern的区别，后者是副词，用于修饰动词
+
+	> Ich lese gern Bücher. 我喜欢读书。
+
+	> Ich mag Bücher. 我喜欢书。
+
+### 语法
+
+##### 物主代词
+
+1. 在阴性名词之前，物主代词的词尾为e。
+	
+	在复数名词之前，物主代词的词尾也是e。
+
+	以dein为例，你的包，deine Tasche,
+
+	复数: deine Taschen。
+
+2. 在中性、阳性名词之前，物主代词在以下两种情况没有词尾。
+
+	1. 主语，Dein Kugelschreiber ist toll.
+
+	2. 作表语，Ist das dein Handy?

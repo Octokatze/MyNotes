@@ -1,0 +1,77 @@
+# K2-5
+
+### 语法
+
+* 情态动词
+	* 情态动词在第一人称单数ich和第三人称单数er/sie/es的变位是一样的！
+	* möchten
+		* 含义：
+			1. 想要...（吃/喝）
+			2. 想做...
+		* 两个公式：
+			1. möchten + 名词：想要...(吃／喝…)
+			2. möchten + 动词
+			<table>
+				<tr>
+					<td></td>
+					<th>第一位</th>
+					<th>第二位</th>
+					<th colspan="2">....</th>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>Er</td>
+					<td>möchte</td>
+					<td>Kaffee</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Er</td>
+					<td>trinkt</td>
+					<td>Kaffee</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Wir</td>
+					<td>möchten</td>
+					<td>Kaffee</td>
+					<td>trinken</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>Das Kind</td>
+					<td>isst</td>
+					<td>Schokolade</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>Das Kind</td>
+					<td>möchte</td>
+					<td>Schokolade</td>
+					<td>essen</td>
+				</tr>
+			</table>
+				句子1：möchten做实意动词，想要....
+
+				句子3、5：möchten做情态动词，位于二位做主动词，实意动词trinken/essen置于句末，构成框架结构。
+
+### 词汇
+
+noch 还
+
+etwas 一些，一点，放在抽象名词前
+
+schon 已经
+
+auch 也
+
+immer 总是
+
+viel 许多
+
+wie 如何
+
+mit 介词，和

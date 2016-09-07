@@ -1,0 +1,185 @@
+# K3-2
+
+### 语法
+
+#### 不定冠词
+
+* 阳性 der → ein
+
+* 中性 das → ein
+
+* 阴性 die → eine
+
+* ##### 不定冠词的使用
+	1. 是第一次提到的、需要引出的人或事物， 不需要作进一步的描述、限定。
+		
+		> Das ist ein Buch.  这是一本书。 das Buch
+
+		> Das ist eine Frau. 这是一个女的。 die Frau
+
+		> Das ist ein Mann.  这是一个男的。 der Mann
+
+	2. 表达未知的人或事物，同类事物中的一种.
+		
+		> Eine Wohnung in Shanghai kostet 3 Millionen Yuan.  (RMB) 上海的一套房要人民币300万元。
+
+		> Eine Katze ist ein Haustier. 猫是宠物。
+
+		> Das ist ein Stift. 这是一支笔。
+
+* ##### 不定冠词的否定形式
+
+	否定词： kein
+
+	* 阳性 der → kein
+
+	* 中性 das → kein
+
+	* 阴性 die → keine
+
+	---
+
+	> Das ist ein Fernseher. 这是一台电视机。
+
+	> Das ist kein Fernseher. 这不是一台电视机。
+
+	---
+
+	> Das ist eine Lampe. 这是一盏灯。
+
+	> Das ist keine Lampe. 这不是一盏灯。
+
+	---
+
+	> Das ist ein Handy. 这是一部手机。
+
+	> Das ist kein Handy. 这不是一部手机。
+
+	---
+
+* ##### 总结
+
+	<table>
+		<tr>
+			<th>名词</th>
+			<th>不定冠词</th>
+			<th>否定词</th>
+		</tr>
+		<tr>
+			<th>阳性名词（单数）</th>
+			<td>ein</td>
+			<td>kein</td>
+		</tr>
+		<tr>
+			<th>中性名词（单数）</th>
+			<td>ein</td>
+			<td>kein</td>
+		</tr>
+		<tr>
+			<th>阴性名词（单数）</th>
+			<td>eine</td>
+			<td>keine</td>
+		</tr>
+		<tr>
+			<th>所有名词（复数）</th>
+			<td>/</td>
+			<td>keine</td>
+		</tr>
+	</table>
+
+#### 定冠词
+
+* 阳性 der
+
+* 中性 das
+
+* 阴性 die
+
+* 复数 die
+
+* ##### 不定冠词的使用
+
+	1. 世上独一无二的。
+
+		> der Mond 月亮
+
+		> der Papst 教皇
+
+		> die Sonne 太阳
+
+	2. 在某个地方、某个环境熟知的，比如说德国的小城基本上都是一个火车站。
+
+		> der Bahnhof, die Bahnhöfe
+
+		> Wo ist der Bahnhof?
+
+	3. 已经在上下文提及且清楚的名词。
+
+		> Auf dem Tisch liegt ein Buch. Das Buch kostet 15 Euro. 桌子上有本书，书价值15欧元。
+
+	4. 最高级。
+
+		> Das ist die beste Kneipe in der ganzen Stadt. 这是整座城市最好的酒馆。
+
+	5. 听话人/说话人都已知的信息。
+
+		> Hast du die Frau gesehen? 你见过那个女的了吗？
+
+	6. 日期、月份、季节。都是阳性。
+
+		> 一月：der Januar
+
+		> 二月：der Februar
+
+		> 三月：der März
+
+		> 四月：der April
+
+		> 五月：der Mai
+
+		> 六月：der Juni
+
+		> 七月：der Juli
+
+		> 八月：der August
+
+		> 九月：der September
+
+		> 十月：der Oktober
+
+		> 十一月：der November
+
+		> 十二月：der Dezember
+
+	7. 表示一类事物。
+
+		> Der Zug ist ein Verkehrsmittel. 火车是一种交通工具。
+
+		小贴士：此种情况与不定冠词的使用可以互换
+		因此：
+
+		> Ein Zug ist ein Verkehrsmittel.
+
+	8. 固定说法。
+
+		1. 山川、河流。
+
+			> Die Alpen 阿尔卑斯山
+
+			> Der Rhein 莱茵河
+
+		2. 带有冠词的国家、地区。
+
+			> Die Schweiz 瑞士
+
+			> Der Iran 伊朗
+
+			> Der Irak 伊拉克
+
+			> Die Türkei 土耳其
+
+		3. 杂志、报刊的名字。
+
+			> Der Spiegel 《明镜》周刊
+
+			> Die Welt 《世界报》
