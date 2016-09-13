@@ -1,0 +1,37 @@
+# K3-5
+
+### 语法
+
+##### 不定冠词的否定
+
+<table>
+    <tr>
+        <th>名词</th>
+        <th>不定冠词</th>
+        <th>否定词</th>
+    </tr>
+    <tr>
+        <td>阳性名词单数</td>
+        <td>ein</td>
+        <td>kein</td>
+    </tr>
+    <tr>
+        <td>中性名词单数</td>
+        <td>ein</td>
+        <td>kein</td>
+    </tr>
+    <tr>
+        <td>阴性名词单数</td>
+        <td>eine</td>
+        <td>keine</td>
+    </tr>
+    <tr>
+        <td>所有名词复数</td>
+        <td>/</td>
+        <td>keine</td>
+    </tr>
+</table>
+
+### 词汇
+
+wie viel 多少 针对不可数名词进行提问
