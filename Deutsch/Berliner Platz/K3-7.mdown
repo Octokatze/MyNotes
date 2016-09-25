@@ -1,0 +1,20 @@
+# K3-7
+
+### 语法
+
+##### 物主代词的用法
+
+1. 在阴性名词前，物主代词的词尾为e。  
+   在复数名词前，物主代词的词尾也为e。  
+
+     例： 
+
+     > die Tasche, 包, 阴性单数：deine Tasche(你的包)  
+     > die Taschen, 包, 复数：deine Taschen
+
+2. 在中性、阳性名词之前，物主代词在以下两种情况没有词尾。  
+
+    例：  
+
+    > das Buch，书，中性单数：dein Buch（你的书）  
+    > der Bleistift，铅笔，阳性单数：dein Bleistift（你的铅笔）
