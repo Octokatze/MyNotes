@@ -1,0 +1,46 @@
+# K3-8
+
+##### mögen 与 gern 的区别  
+
+* mögen 为动词，表示喜欢具体的人或物
+
+* gern 为副词，修饰动词
+
+例子：
+
+> Ich lese gern Bücher. 我喜欢读书。
+
+> Sie liest gern Bücher. 她喜欢读书。
+
+> Ich mag Bücher. 我喜欢书。
+
+> Er mag Bücher. 他喜欢书
+
+变位：
+
+<table>
+    <tr>
+        <th>ich</th>
+        <td>mag</td>
+    </tr>
+    <tr>
+        <th>du</th>
+        <td>magst</td>
+    </tr>
+    <tr>
+        <th>er/sie/es</th>
+        <td>mag</td>
+    </tr>
+    <tr>
+        <th>wir</th>
+        <td>mögen</td>
+    </tr>
+    <tr>
+        <th>ihr</th>
+        <td>mögt</td>
+    </tr>
+    <tr>
+        <th>Sie/sie</th>
+        <td>mögen</td>
+    </tr>
+</table>
