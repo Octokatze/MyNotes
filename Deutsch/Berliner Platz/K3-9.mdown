@@ -1,0 +1,105 @@
+# K3-9
+
+##### möchten
+
+变位：
+
+<table>
+    <tr>
+        <th>ich</th>
+        <td>möchte</td>
+    </tr>
+    <tr>
+        <th>du</th>
+        <td>möchtest</td>
+    </tr>
+    <tr>
+        <th>er/sie/es</th>
+        <td>möchte</td>
+    </tr>
+    <tr>
+        <th>wir</th>
+        <td>möchten</td>
+    </tr>
+    <tr>
+        <th>ihr</th>
+        <td>möchtet</td>
+    </tr>
+    <tr>
+        <th>Sie/sie</th>
+        <td>möchten</td>
+    </tr>
+</table>
+
+<font color="red">
+    ** 注意：情态动词 ich 和 er/sie/es 变位一致 **
+</font>
+
+1. Das Kind trinkt Milch. 这个孩子喝牛奶。
+
+2. Das Kind möchte Milch. 这个孩子想喝牛奶。
+
+    * möchten【实意动词】+ Milch【名词，第四格】= 想（喝），做实意动词。
+
+3. Das Kind möchte Milch trinken. 这个孩子想喝牛奶。
+
+    * möchten【情态动词】+ trinken【实意动词】= 想要喝
+
+    * möchten + 动词原形，这个孩子想喝牛奶。做情态动词。
+
+### 不占位连词
+
+<table>
+    <tr>
+        <th>不占位连词</th>
+        <th>第一位</th>
+        <th>第二位</th>
+        <th>...</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th></th>
+        <td>Das</td>
+        <td>ist</td>
+        <td>ein Buch</td>
+        <td rowspan="2">
+            这是一本书。
+            <br>
+                这是一把剪刀。
+            </br>
+        </td>
+    </tr>
+    <tr>
+        <th>Und</th>
+        <td>das</td>
+        <td>ist</td>
+        <td>eine Schere.</td>
+    </tr>
+    <tr>
+        <th></th>
+        <td>Ich</td>
+        <td>arbeite</td>
+        <td>in Shanghai</td>
+        <td rowspan="3">
+            我在上海工作。
+            <br>
+                或者在北京学习。
+            </br>
+            <br>
+                但是，我不在广州生活。
+            </br>
+        </td>
+    </tr>
+    <tr>
+        <th>Oder</th>
+        <td>ich</td>
+        <td>studiere</td>
+        <td>in Peking.</td>
+    </tr>
+    <tr>
+        <th>Aber</th>
+        <td>ich</td>
+        <td>lebe</td>
+        <td>nicht in Guangzhou.</td>
+    </tr>
+</table>
