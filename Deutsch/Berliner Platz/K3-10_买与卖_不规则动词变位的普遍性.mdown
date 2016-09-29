@@ -1,0 +1,48 @@
+# K3-10
+
+### 不规则动词变位的普遍性
+
+nehmen
+
+<table>
+    <tr>
+        <th>ich</th>
+        <td>nehme</td>
+    </tr>
+    <tr>
+        <th>du</th>
+        <td>nimmst</td>
+    </tr>
+    <tr>
+        <th>er/sie/es</th>
+        <td>nimmt</td>
+    </tr>
+    <tr>
+        <th>wir</th>
+        <td>nehmen</td>
+    </tr>
+    <tr>
+        <th>ihr</th>
+        <td>nehmt</td>
+    </tr>
+    <tr>
+        <th>Sie/sie</th>
+        <td>nehmen</td>
+    </tr>
+</table>
+
+1. 不规则动词只在词干的元音部分发生变化，如eh变成了i。
+
+2. 不规则动词词干中的元音只在du, er/sie/es人称时发生变化。
+
+**其他有可能变音的情况：**
+
+1. 元音 a 变成 ä，例如：fahren 行驶
+
+2. 元音 o 变成 ö，例如：stoßen 撞、推
+
+3. 元音 e 变成 i，例如：helfen 帮助
+
+4. 元音 e 变成 ie，例如：lesen 读、sehen 看
+
+5. 双元音 au 变成 äu，例如：laufen 跑
