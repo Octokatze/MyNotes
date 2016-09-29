@@ -32,7 +32,7 @@
 </table>
 
 <font color="red">
-    ** 注意：情态动词 ich 和 er/sie/es 变位一致 **
+    **注意：情态动词 ich 和 er/sie/es 变位一致**
 </font>
 
 1. Das Kind trinkt Milch. 这个孩子喝牛奶。
