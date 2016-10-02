@@ -1,1 +1,33 @@
-# R1-2 复习不定冠词，数字
+# 复习不定冠词，数字
+
+### 不定冠词
+
+<table>
+    <tr>
+        <th></th>
+        <th>阳性</th>
+        <th>中性</th>
+        <th>阴性</th>
+        <th>复数</th>
+    </tr>
+    <tr>
+            <th></th>
+            <td>ein</td>
+            <td>ein</td>
+            <td>eine</td>
+            <td>/</td>
+    </tr>
+    <tr>
+            <th>否定</th>
+            <td>kein</td>
+            <td>kein</td>
+            <td>keine</td>
+            <td>keine</td>
+    </tr>
+</table>
+
+### 否定词
+
+* kein 否定名词
+
+* nicht 否定名词以外的形容词，副词，动词。
