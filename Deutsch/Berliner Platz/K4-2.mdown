@@ -1,0 +1,131 @@
+# 时间的非正式表达
+
+###时间的非正式表达方法 12小时制
+
+##### 常见表达：
+
+1. 整点：Es ist acht.  不需要再说 Uhr
+
+2. 一刻钟：das Viertel
+
+    * **12:15 Uhr**  
+      Es ist (ein) Viertel nach zwölf.
+
+    * **11:45 Uhr**  
+      Es ist (ein) Viertel vor zwölf.
+
+    * **10:15 Uhr/22:15 Uhr**  
+      Es ist (ein) Viertel nach zehn.
+
+    * **9:15 Uhr/21:15 Uhr**  
+      Es ist (ein) Viertel nach neun.
+
+    * **6:15 Uhr/18:15 Uhr**  
+      Es ist (ein) Viertel nach sechs.
+
+    * **7:45 Uhr/19:45 Uhr**  
+      Es ist (ein) Viertel vor acht.
+
+    * **8:45 Uhr/20:45 Uhr**  
+      Es ist (ein) Viertel vor neun.
+
+    * **4:45 Uhr/16:45 Uhr**  
+      Es ist (ein) Viertel vor fünf.
+
+3. 半，30分钟：halb
+
+    * **11: 30 Uhr/23:30 Uhr**  
+      Es ist halb zwölf.
+
+    * **1:30 Uhr/13:30 Uhr**  
+      Es ist halb zwei.
+
+    * **2:30 Uhr/14:30 Uhr**  
+      Es ist halb drei.
+
+    * **6:30 Uhr/18:30 Uhr**  
+      Es ist halb sieben.
+
+    * **10:30 Uhr/22:30 Uhr**  
+      Es ist halb elf.
+
+    **注意：**  
+    半后面的钟点数比实际的钟点数多1，可以理解为“差30分钟XXX点，这里就是差30分钟12点”。
+
+4. 误差小于5分钟, 可以用kurz，原意表示短，少  
+   kurz vor 表示差一点就到...点钟  
+   kurz nach 表示...点钟多一点
+
+    **特点：**  
+    比较模糊的一种表达，不会特别地强调还差多少分。
+
+    * **9:56 Uhr**  
+      Es ist kurz vor zehn.
+
+    * **10:03 Uhr**  
+      Es ist kurz nach zehn.
+
+    * **1:04 Uhr/13:04 Uhr**  
+      Es ist kurz nach eins.
+
+    *  **4:03 Uhr/16:03 Uhr**  
+      Es ist kurz nach vier.
+
+    * **9:02 Uhr/21:02 Uhr**  
+      Es ist kurz nach neun.
+
+    * **3:58 Uhr/15:58 Uhr**  
+      Es ist kurz vor vier.
+
+    * **6:57 Uhr/18:57 Uhr**  
+      Es ist kurz vor sieben.
+   
+    * **5:59 Uhr/17:59 Uhr**  
+      Es ist kurz vor sechs.
+
+5. kurz 与halb 的合用，比如
+
+    * **12:28 Uhr**  
+      Es ist kurz vor halb eins.
+
+    * **12:34 Uhr**  
+      Es ist kurz nach halb eins.
+
+    * **1:27 Uhr/13:27 Uhr**  
+      Es ist kurz vor halb zwei.
+
+    * **4:26 Uhr/16:26 Uhr**  
+      Es ist kurz vor halb fünf.
+
+    * **8:28 Uhr/20:28 Uhr**  
+      Es ist kurz vor halb neun.
+
+    * **5:33 Uhr/17:33 Uhr**  
+      Es ist kurz nach halb sechs.
+
+    * **6:31 Uhr/18:31 Uhr**  
+      Es ist kurz nach halb sieben.
+
+    * **9:32 Uhr/21:32 Uhr**  
+      Es ist kurz nach halb zehn.
+
+    **注意：**  
+    要注意kurz 运用的范围在<5分，同时halb 后面的钟点数要+1
+
+    * **9:18 Uhr/21:18 Uhr**  
+      Es ist achtzehn nach neun.
+
+    * **8:17 Uhr/20:17 Uhr**  
+      Es ist siebzehn nach acht.
+
+    * **3:20 Uhr/15:20 Uhr**  
+      Es ist zwanzig nach drei.
+
+    * **10:44 Uhr/22:44 Uhr**  
+      Es ist sechzehn vor elf.
+
+    * **5:48 Uhr/17:48 Uhr**  
+      Es ist zwölf vor sechs.
+
+    * **6:39 Uhr/18:39 Uhr**  
+      Es ist einundzwanzig vor sieben.
