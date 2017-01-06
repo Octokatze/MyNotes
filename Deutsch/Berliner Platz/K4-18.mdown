@@ -1,0 +1,168 @@
+# 静三动四
+
+### 1.介词in
+
+Er geht in den Biergarten.  他去啤酒园。  
+Sie geht ins Kino.  她去电影院。  
+Wir gehen in die Bibliothek.  我们去图书馆。
+
+**小贴士：**  
+介词结构作动词的方向补足语→表示方向移动  
+第四格名词作动词的宾语补足语 → 表示动作的对象  
+Wir kaufen das Buch. 
+
+**介词+第四格（主要体现在定冠词/不定冠词的变化 ）+名词**  
+**→动四**
+
+### 2.介词auf
+
+表示去某个公共场合 第四格
+
+Sie geht auf den Markt.  她去集市。  
+Sie geht auf den Platz.  她去广场。
+
+### 3.介词an
+
+指依靠着表面  
+
+坐到桌子边 an den Tisch
+
+Er sitzt am Computer.  他坐在电脑旁边。  
+Er lehnt die Leiter an den Baum.  他把梯子靠着树。  
+
+### 4.介词durch
+
+表示穿过
+
+durch die Stadt  
+durch den Wald(der Wald 森林)
+
+Sie fahren durch die Stadt.  他们乘车穿过城市。  
+Sie geht durch den Wald.  她步行穿过森林。
+
+### 5.介词zu
+
+不加第四格
+
+Ich gehe zum Kurs.  我去上课。  
+Sie geht zur Arbeit.  她去上班。
+
+##### 第四格语法变化
+
+<table>
+    <tr>
+        <th></th>
+        <th>第四格 Akkusative</th>
+    </tr>
+    <tr>
+        <th>der</th>
+        <td>den</td>
+    </tr>
+    <tr>
+        <th>das</th>
+        <td>das</td>
+    </tr>
+    <tr>
+        <th>die</th>
+        <td>die</td>
+    </tr>
+    <tr>
+        <th>die(复数)</th>
+        <td>die</td>
+    </tr>
+</table>
+
+##### 第三格语法变化
+
+<table>
+    <tr>
+        <td></td>
+        <th>第三格 Dativ</th>
+        <th>与zu的缩写</th>
+    </tr>
+    <tr>
+        <th>der</th>
+        <td>dem</td>
+        <td>zum</td>
+    </tr>
+    <tr>
+        <th>das</th>
+        <td>dem</td>
+        <td>zum</td>
+    </tr>
+    <tr>
+        <th>die</th>
+        <td>der</td>
+        <td>zur</td>
+    </tr>
+    <tr>
+        <th>die(复数)</th>
+        <td>den</td>
+        <td>zu den</td>
+    </tr>
+</table>
+
+**注意：**  
+名词在第三格的时候，除了冠词要变，复数名词本身也要加上n  
+除了以n, en, s结尾的名词。
+
+##### zu和in的差别
+
+in表示进到某个空间里  
+zu表示往某个方向去
+
+现代德语里面zu和in的用法比较相近，只是有习惯上的不同。  
+在表示去某人那里我们只用zu。
+
+如：  
+Er geht **zu der** Frau.  √  
+Er geht **in die** Frau.  ×
+
+### 6.介词nach
+
+只能加专有名词或方位词，东南西北，上下左右，前后。
+中性国家名，所有城市名。
+
+##### "静三"
+
+静态或者状态的动词 + 第三格
+
+> Ich wohne in Beijing. 我住在北京。
+
+> ein Flohmarkt im Kurs  课中的跳蚤市场。
+
+im = in + dem
+
+**in表示在某个空间里面，加第三格。**
+
+**总结**  
+in/auf/an介词+第四格表示动态。  
+in/auf/an介词+第三格表示状态，表示事物处的地理位置。
+
+### 7.介词mit
+
+固定搭配第三格
+
+1. 和谁
+
+    > Mit der Frau telefoniert er.  他和这个女人打电话。
+
+2. 通过什么手段、途径
+
+    > Mit dem Fahrrad fahre ich durch die Stadt.   我骑自行车穿过这座城市。
+
+### 8.介词von
+
+固定搭配第三格
+
+表示谁的
+
+> Das Buch von Karl Max  卡尔马克思的书
+
+> Die Adresse von der Firma  公司的地址
+
+### 9.介词über
+
+关于
+
+über + 第四格
