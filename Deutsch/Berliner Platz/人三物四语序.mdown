@@ -1,0 +1,15 @@
+#### 人三物四语序
+
+1. **两个宾语都是名词，第三格放在第四格前。**
+
+    > Er gibt seiner Frau einen Ring.
+
+2. **两个宾语，一个是人称代词，另一个是名词，人称代词放在名词之前。**
+
+    > 1. Das ist seine Frau. Er gibt ihr einen Ring.
+
+    > 2. Das ist ein Ring. Er gibt ihn seiner Frau.
+
+3. **两个宾语都是人称代词，第四格放在第三格前。**
+
+    > Das ist seine Frau. Er hat einen Ring gekauft. Er gibt ihn ihr.
